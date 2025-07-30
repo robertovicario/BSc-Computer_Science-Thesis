@@ -2,7 +2,7 @@
 
 ## Abstract
 
-...
+Detecting stress in workplace environments represents an innovative element for promoting employee health and well-being, particularly in office settings. The use of machine learning in this context offers an effective approach to identifying early signs of stress, allowing organizations to intervene promptly to mitigate associated risks. Of particular interest is examining whether the results obtained through unsupervised learning methods can be comparable to those derived from supervised approaches, as highlighted in the research _"Exploring Unsupervised Machine Learning Classification Methods for Physiological Stress Detection" by Iqbal et al. (2022)_ in the journal _Frontiers in Medical Technology_.
 
 ## Thesis
 
