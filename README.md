@@ -10,10 +10,4 @@ Detecting stress in workplace environments represents an innovative element for 
 
 ## License
 
-This project is distributed under the [MIT License](https://opensource.org/licenses/MIT). You can find the complete text of the license in the project repository.
-
-## Contacts
-
-For any questions, feedback, or inquiries about this project, feel free to contact me:
-
-- Email: [rvicariodev@gmail.com](mailto:rvicariodev@gmail.com)
+This project is distributed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0). You can find the complete text of the license in the project repository.
