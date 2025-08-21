@@ -13,6 +13,23 @@ Detecting stress in workplace environments represents an innovative element for 
 | :--: | :--: |
 | [ ENG ] | [ ITA ] |
 
+## Credits
+
+> [!WARNING]
+>
+> If you use or reference this project, please cite it as follows:
+>
+> ```bib
+> @thesis{vicario2025datavisualization,
+>     author = {R. Vicario},
+>     title  = {Apply Machine Learning for Stress Detection in Office Work Environments},
+>     school = {University of Insubria}
+>     year   = {2024},
+>     type   = {Bachelor Thesis}
+>     url    = {https://raw.githubusercontent.com/robertovicario/BSc-Computer-Science-Thesis/main/Applicare_il_Machine_Learning_per_il_Rilevamento_dello_Stress_negli_Ambienti_di_Lavoro_di_Ufficio.pdf}
+> }
+> ```
+
 ## License
 
 This project is distributed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0). You can find the complete text of the license in the project repository.
