@@ -15,7 +15,7 @@ Detecting stress in workplace environments represents an innovative element for 
 
 ## Credits
 
-> [!WARNING]
+> [!IMPORTANT]
 >
 > If you use or reference this project, please cite it as follows:
 >
