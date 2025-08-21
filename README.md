@@ -23,9 +23,7 @@ Detecting stress in workplace environments represents an innovative element for 
 > @thesis{vicario2024apply,
 >     author = {Vicario, Roberto},
 >     title  = {Apply Machine Learning for Stress Detection in Office Work Environments},
->     school = {University of Insubria}
 >     year   = {2024},
->     type   = {Bachelor Thesis}
 >     url    = {https://raw.githubusercontent.com/robertovicario/BSc-Computer-Science-Thesis/main/Applicare_il_Machine_Learning_per_il_Rilevamento_dello_Stress_negli_Ambienti_di_Lavoro_di_Ufficio.pdf}
 > }
 > ```
