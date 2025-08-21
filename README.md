@@ -20,8 +20,8 @@ Detecting stress in workplace environments represents an innovative element for 
 > If you use or reference this project, please cite it as follows:
 >
 > ```bib
-> @thesis{vicario2025datavisualization,
->     author = {R. Vicario},
+> @thesis{vicario2024apply,
+>     author = {Vicario, Roberto},
 >     title  = {Apply Machine Learning for Stress Detection in Office Work Environments},
 >     school = {University of Insubria}
 >     year   = {2024},
