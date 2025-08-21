@@ -1,3 +1,6 @@
+| <img src="docs/uninsubria.svg" width="128"> |
+| - |
+
 # Apply Machine Learning for Stress Detection in Office Work Environments
 
 ## Abstract
